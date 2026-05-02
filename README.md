@@ -1,2 +1,2 @@
-# CodeGalaxy
-> ### Collection of my best AI-ML notebooks
+# Code Innovations
+> Some of my best curated AI-ML notebooks
